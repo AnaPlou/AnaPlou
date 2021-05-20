@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnaPlou
-- 👀 I’m interested in design, UX/UI and 
+- 👀 I’m interested in design, UX/UI and frontend development
 - 🌱 I’m currently learning Web Design 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ana.ploufm@gmai.com
 
 <!---
